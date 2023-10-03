@@ -3,7 +3,4 @@ test pull
 test pull branch
 Intentional conflict
 intentional conflict from remote
-merged
-hello
-test
-tesp tiep
+>>>>>>>>> Temporary merge branch 2
